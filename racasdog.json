@@ -1,0 +1,37 @@
+[
+    {"tipos":"Cachorros grandes",
+     "raças": "Pit-bulls",
+     "pelos":"pelo curto",
+     "imagem":"imagem.com.br",
+     "descricao": "FOFINHO, só tem a cara de cachorro mau!!!"
+    },
+    {
+     "tipos":"Cachorros grandes",
+     "raças": "vira-latas",
+     "pelos":"Com pelos médios",
+     "imagem":"imagem.com.br",
+     "descricao": "Nunca abandona!!!"
+    },
+    {
+     "tipos":"Cachorros médios",
+     "raças": "Chow-chow",
+     "pelos":"Com pelos longos",
+     "imagem":"imagem.com.br",
+     "descricao": "Tende a ser muito amigo, mas não confie muito!!!"
+    },
+    {
+    "tipos":"Cachorros pequenos",
+     "raças": "Pinscher",
+     "pelos":"Pelados",
+     "imagem":"imagem.com.br",
+     "descricao":"Nunca em hipótese alguma, tente passar a mão em um deles!!!"
+    },
+    {
+     "tipos":"Cachorros pequenos",
+     "raças": "Poodlle",
+     "pelos":"Pelos enrolados e longos",
+     "imagem":"imagem.com.br",
+     "descricao":"Toda casa de velho(a) tem!!!"
+    }
+    
+]

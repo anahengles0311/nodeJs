@@ -1,0 +1,36 @@
+[
+  {
+    "tipos": "Lusitano",
+    "raças": "Puro sangue",
+    "pelos": "Preto e bege",
+    "imagem": "https://univitta.net/backend/web/uploads/blog/posts/puro-sangue-lusitano_20210120111522.png",
+    "descricao": "primeira raça de sela do mundo"
+  },
+  {
+    "tipos": "Cavalo raça nova",
+    "raças": "Paint Horse",
+    "pelos": "Branco e preto",
+    "imagem": "https://univitta.net/backend/web/uploads/blog/posts/paint-horse_20210115105814.png",
+    "descricao": "entre as mais populares, as mais comercializadas e também as mais caras"
+  },
+  {
+    "tipos": "Beleza rara",
+    "raças": "Appaloosa ",
+    "pelos": "Branco e preto",
+    "imagem": "https://univitta.net/backend/web/uploads/blog/posts/appaloosa_20210112152359.png",
+    "descricao": "São animais de beleza rara, ágeis, rústicos e velozes."
+  },
+  {
+    "tipos": "Cavalo Árabe",
+    "raças": "Árabe",
+    "pelos": "Castanho e preto",
+    "imagem": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTwNtVZs9UtjUQwIEKQLM0oJgqTDOcn5FdlloNbcdStp2Y7Px5r_RI59PgySSTxNPyz",
+    "descricao": "beleza elegante, cabeça distintamente curvada e pescoço arqueado."
+  },
+  {"tipos": "Frísio",
+  "raças": "Frísio",
+  "pelos": "Castanho escuro ou preto",
+  "imagem": "https://media.istockphoto.com/id/176789013/pt/foto/cavalo-preto-no-p%C3%B4r-do-sol-gallop.jpg?s=612x612&w=0&k=20&c=ArE0JZLrpilVfzOkTw3D5m3Zk93Sc995wL79_aHG1hI=",
+  "descricao": " Frísios são frequentemente vistos em eventos de exibição equestre devido à sua elegância e movimentos impressionantes."
+}
+]

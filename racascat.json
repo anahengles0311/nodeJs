@@ -1,0 +1,37 @@
+[
+    {"tipos":"Gatos grandes",
+     "raças": "Siamês",
+     "pelos":"pelo curto",
+     "imagem":"https://cdn.folhape.com.br/img/pc/1100/1/dn_arquivo/2020/11/cat-2068462-1920.jpg",
+     "descricao": "Muito companheiro!!!"
+    },
+    {
+     "tipos":"Gatos grandes",
+     "raças": "Gato Persa",
+     "pelos":"Com pelos longos",
+     "imagem":"https://www.patasdacasa.com.br/sites/patasdacasa/files/styles/webp/public/noticias/2022/04/gato-persa-tudo-que-voce-precisa-saber-sobre-a-personalidade-da-raca.jpg.webp?itok=95EBZXum",
+     "descricao": "Muito preguiçoso!!!"
+    },
+    {
+     "tipos":"Gatos pequenos",
+     "raças": "Munchkin",
+     "pelos":"Com pelos médios",
+     "imagem":"https://www.patasdacasa.com.br/sites/patasdacasa/files/styles/webp/public/noticias/2021/11/raca-de-gato-pequeno-conheca-os-menores-bichanos-do-mundo.jpg.webp?itok=AwQezmLZ",
+     "descricao": "Fofo e muito charmoso!!!"
+    },
+    {
+    "tipos":"Gatos pequenos",
+     "raças": "Singapura",
+     "pelos":"Pelos curtos",
+     "imagem":"https://storage.googleapis.com/patasdacasa/files/2021/11/16266-o-gato-pequeno-singapura-e-a-menor-raca-articles_media_desktop-2.jpg",
+     "descricao":"Muito carinhoso"
+    },
+    {
+     "tipos":"Gatos pequenos",
+     "raças": "Skookum",
+     "pelos":"Pelos enrolados e longos",
+     "imagem":"https://storage.googleapis.com/patasdacasa/files/2021/11/16272-o-skookum-e-um-gato-pequeno-de-pernas-cu-articles_media_desktop-2.jpg",
+     "descricao":"Muito energético e serelepe!!!"
+    }
+    
+]
