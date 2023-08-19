@@ -1,0 +1,39 @@
+[
+  {
+    "tipos": "Peixe-Beta",
+    "raças": "Betta splendens",
+    "escama": "Variam de azul, vermelho, verde, roxo a outras cores vibrantes.",
+    "imagem": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcR62w4oel7sjMGqst69GMS_9mh__kYSOavk3jYYOjI2YsiZXtv-zc3xz8-yN563osdd",
+    "descricao": "é famoso por suas cores vibrantes e longas nadadeiras"
+  },
+  {
+    "tipos": "Peixe-Palhaço",
+    "raças": "Amphiprioninae",
+    "escama": "Geralmente laranja vibrante com listras brancas",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg/640px-Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg",
+    "descricao": "Os Peixes-Palhaço são reconhecidos por sua relação simbiótica com anêmonas marinhas"
+  },
+  {
+    "tipos": "Tetra-Neon",
+    "raças": "Paracheirodon innesi",
+    "escama": "Corpo azul-escuro com uma linha horizontal neon vermelha/alaranjada.",
+    "imagem": "https://images.tcdn.com.br/img/img_prod/749804/tetra_neon_cardinal_1_5_a_3_cm_paracheirodon_axelrodi_913_1_ff1a15caa7189385c8921000c42e432e.png",
+    "descricao": "Os Tetras-Neon são peixes pequenos e pacíficos originários da América do Sul"
+  },
+  {
+    "tipos": "Peixe-Anjo",
+    "raças": "Pterophyllum spp",
+    "escama": "Variam de prateado a dourado, com padrões distintos e coloridos",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Pomacanthus_paru2.jpg",
+    "descricao": "Os Peixes-Anjo são conhecidos por suas nadadeiras alongadas e corpos elegantes"
+  },
+  {
+    "tipos": "Guppy",
+    "raças": "Poecilia reticulata",
+    "escama": "Uma ampla variedade de cores, incluindo vermelho, azul, verde e amarelo.",
+    "imagem": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT5flwSqgKbfnsq2TosPni9bA6ddgfEoc3yQXwBykyc1MWo-olEGx_6L-WHuQHj5jsK",
+    "descricao": "Os Guppies são peixes pequenos e prolíficos que vêm em uma variedade de cores e padrões."
+
+
+  }
+]

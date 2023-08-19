@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Aulas SENAI 2023 Backend Galera Top",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "echo \"# npm\" >> README.md"
+  },
+  "keywords": [
+    "md"
+  ],
+  "author": "",
+  "license": "ISC"
+}
